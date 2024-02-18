@@ -1,0 +1,7 @@
+# Ignore all Eclipse project files. 
+# This will send the python and pypi.org-related files to the remore repo,
+#  but not the Eclipse-related files used to develop the project
+
+.project
+.pydevproject
+.settings/
